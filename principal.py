@@ -309,7 +309,7 @@ if pagina == "1. O Despertar":
             <div class="v0-callout" style="background: rgba(59,130,246,0.10); border-color: rgba(59,130,246,0.35);">
                 <span class="v0-ico">💡</span>
                 <div>
-                    <strong>O que é o "mínimo" para uma escola funcionar em 2024?</strong>
+                    <strong>O que é o "mínimo" para uma escola funcionar?</strong>
                     <p>Computador? Internet? Ar-condicionado?</p>
                 </div>
             </div>
